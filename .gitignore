@@ -1,0 +1,34 @@
+# ============================================================================
+# KAFAPASHA STUDIO — STRICT SOURCE CODE PROTECTION (.gitignore)
+# Kaynak kodları (_private_src, *.py, *.cs, *.html, *.js, static/) ASLA Git'e
+# eklenmez. Yalnızca uzaktan güncelleme (.version, .exe) ve lisans kontrol
+# (licenses.json) dosyaları Git tarafından takip edilir.
+# ============================================================================
+
+# Ignore everything by default
+*
+
+# Explicitly allow ONLY public OTA update, license & documentation files
+!.gitignore
+!.gitattributes
+!.version
+!licenses.json
+!KafaPasha.exe
+!KafaPasha_v*.exe
+!README.md
+!LICENSE
+
+# Always block private source directories and source extensions
+_private_src/
+static/
+Limon_Stream_Avatar_Paketi/
+__pycache__/
+*.py
+*.pyc
+*.pyo
+*.cs
+*.dat
+*.html
+*.js
+*.zip
+*.log
