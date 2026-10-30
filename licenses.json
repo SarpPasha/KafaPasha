@@ -1,17 +1,19 @@
 {
   "app": "KafaPasha",
   "version": "3.3.0",
-  "updated_at": "2026-10-30 14:50:50",
-  "updated_epoch": 1793361050,
+  "updated_at": "2026-10-30 15:00:45",
+  "updated_epoch": 1793361645,
   "exe_url": "https://raw.githubusercontent.com/SarpPasha/KafaPasha/main/KafaPasha.exe",
   "versioned_exe_pattern": "https://raw.githubusercontent.com/SarpPasha/KafaPasha/main/KafaPasha_v{version}.exe",
   "revoked_profiles": {
     "limonrstx": false,
-    "peymirr": false
+    "peymirr": false,
+    "psikocuk": false
   },
   "remote_hwid_locks": {
     "limonrstx": "",
-    "peymirr": ""
+    "peymirr": "",
+    "psikocuk": ""
   },
   "target_hwids": [],
   "hwid_updates": {},
