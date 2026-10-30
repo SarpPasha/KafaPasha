@@ -1,8 +1,8 @@
 {
   "app": "KafaPasha",
   "version": "3.3.0",
-  "updated_at": "2026-10-30 15:17:41",
-  "updated_epoch": 1793362661,
+  "updated_at": "2026-10-30 15:20:03",
+  "updated_epoch": 1793362803,
   "exe_url": "https://raw.githubusercontent.com/SarpPasha/KafaPasha/main/KafaPasha.exe",
   "versioned_exe_pattern": "https://raw.githubusercontent.com/SarpPasha/KafaPasha/main/KafaPasha_v{version}.exe",
   "revoked_profiles": {
