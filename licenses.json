@@ -1,8 +1,8 @@
 {
   "app": "KafaPasha",
   "version": "3.3.0",
-  "updated_at": "2026-10-30 15:20:03",
-  "updated_epoch": 1793362803,
+  "updated_at": "2026-10-30 15:34:36",
+  "updated_epoch": 1793363676,
   "exe_url": "https://raw.githubusercontent.com/SarpPasha/KafaPasha/main/KafaPasha.exe",
   "versioned_exe_pattern": "https://raw.githubusercontent.com/SarpPasha/KafaPasha/main/KafaPasha_v{version}.exe",
   "revoked_profiles": {
@@ -16,7 +16,13 @@
     "psikocuk": ""
   },
   "target_hwids": [],
-  "hwid_updates": {},
+  "hwid_updates": {
+    "HW-3EDECF2567904F4F": {
+      "version": "3.3.1",
+      "exe_url": "https://raw.githubusercontent.com/SarpPasha/KafaPasha/main/KafaPasha_v3.3.1.exe",
+      "force_update": false
+    }
+  },
   "allowed_keys": {
     "sarppasha": "1d268012424cbc1284ade957c689bcb50e4e226758bedf4f5a4675742db85678",
     "limonrstx": "3fefc8f337e2448322b787458deeb5ccf4a5db4427233ba3270b80653e3ad221",
