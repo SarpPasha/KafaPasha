@@ -1,7 +1,7 @@
 {
   "app": "KafaPasha",
   "version": "3.3.0",
-  "updated_at": "2026-10-30 10:21:27",
+  "updated_at": "2026-10-30 10:23:26",
   "exe_url": "https://raw.githubusercontent.com/nevzatkekec0715-commits/KafaPasha/main/KafaPasha.exe",
   "versioned_exe_pattern": "https://raw.githubusercontent.com/nevzatkekec0715-commits/KafaPasha/main/KafaPasha_v{version}.exe",
   "revoked_profiles": {
